@@ -8,6 +8,9 @@ func main() {
 	var c = a + b
 	fmt.Println(c)
 
-	a += 5
+	a += 5 // a = a + 5
 	fmt.Println(a)
+
+	b++; // b = b + 1
+	fmt.Println(b)
 }

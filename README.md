@@ -7,7 +7,6 @@ Welcome to the Learn Go repository! This repository is designed to help you get 
 - [Introduction](#introduction)
 - [Installation](#installation)
 - [Getting Started](#getting-started)
-- [Contributing](#contributing)
 
 ## Introduction
 
@@ -27,7 +26,7 @@ To get started with Go, follow these steps:
 
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your-username/Learn-Go.git
+   git clone https://github.com/fathanabds/Learn-Go.git
    ```
 2. Navigate to the project directory:
    ```sh
@@ -35,9 +34,6 @@ To get started with Go, follow these steps:
    ```
 3. Run your first Go program:
    ```sh
-   go run hello.go
+   cd 1. hello-world
+   go run helloworld.go
    ```
-
-## Contributing
-
-We welcome contributions! Please read our [contributing guidelines](CONTRIBUTING.md) to get started.
